@@ -1,10 +1,1 @@
- Volume in drive D is HARDDRIVE
- Volume Serial Number is DD88-C150
-
- Directory of D:\Asus Drive\Training\Git Project
-
-05.03.2019  23:37    <DIR>          .
-05.03.2019  23:37    <DIR>          ..
-05.03.2019  23:37                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  98.331.209.728 bytes free
+Changes 123
